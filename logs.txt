@@ -1,1 +1,7 @@
---Start log--Primera llamada2ª llamada3ª llamada4ª llamada5ª llamada--End log: 5 log(s)--
+--Start log--
+Primera llamada
+2ï¿½ llamada
+3ï¿½ llamada
+4ï¿½ llamada
+5ï¿½ llamada
+--End log: 5 log(s)--
